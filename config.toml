@@ -24,17 +24,17 @@ disqusShortname = "darongE"
     name = "sunmi"
 
     [params.publisher.logo]
-      url = "logo.png"
+      url = "images/logo.jpg"
       width = 127
       height = 40
 
   [params.logo]
-    url = "/logo.png"
+    url = "images/logo.jpg"
     width = 127
     height = 40
 
   [params.image]
-    url = "/cover.jpg"
+    url = "images/cover.jpg"
     width = 800
     height = 600
 
