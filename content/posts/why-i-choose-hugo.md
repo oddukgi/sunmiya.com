@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "why I choose hugo"
 date: 2019-11-12T18:57:13+09:00
 draft: true
 tags: ["1상"]
 categories: ["1상"]
 toc: true
-slug: "todo-20191112"
+slug: "why-i-choose-hugo"
 ---
 squarespace 에 올렸던 [홈페이지](https://www.sunmi.space/) 는 반응형 홈페이지라 디자인은 좋았지만, 로딩속도는 느렸다. 몇개월 참다가 [hugo](https://gohugo.io/documentation/) static website generator 를 사용하여 테마를 구성하였다.
 
