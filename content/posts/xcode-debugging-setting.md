@@ -4,7 +4,8 @@ date: 2019-11-12T18:17:58+09:00
 draft: true
 tags: ["ios", "xcode"]
 series: ["XCode"]
-categories: ["XCode"]
+categories: 
+ - XCode
 slug: "xcode-debugging-setting"
 images: "/images/featured/xcode_debugging_setting.jpg"
 ---
