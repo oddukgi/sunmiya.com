@@ -63,19 +63,24 @@
     </div>
 
     <div class="post-copyright">
-        <div class="author">
-            <figure class="author-image">
-                <a href="/about" class="image" alt="Josh Michielsen's Picture" style="background-image: url(https://en.gravatar.com/userimage/8133404/d27164df1e597dbc0bd9d5f43bb67bab.jpg)">
-                <span class="hidden">Josh Michielsen's Picture</span></a>
-            </figure>
-        </div>
+      {{ with .Site.Params.author }}
+        <p class="copyright-item">
+          <span>{{ i18n "Author" }} Author:</span>
+          <span>{{ . }} </span>
+          </p>
+        {{ end }}
+
+        <p class="copyright-item">
+              <span>{{ i18n "Words" }} Words:</span>
+             <span>{{ .WordCount }}</span>
+        </p>
 
         <p class="copyright-item">
             {{ if $.Param "socialShare" }}
             <h4>{{ i18n "Share" }} This Post:</h4>
             <span class="share-icons">{{ partial "share-links" . }}</span>
         </p>
-                    {{ end }}
+            {{ end }}
 
         {{ with .Site.Params.license }}
         <p class="copyright-item">
@@ -116,4 +121,3 @@
     </div>
 </article>
 {{- end }}
-
