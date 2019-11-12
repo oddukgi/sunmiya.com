@@ -23,18 +23,18 @@ disqusShortname = "darongE"
   [params.publisher]
     name = "sunmi"
 
-    [params.publisher.logo]
-      url = "images/logo.jpg"
-      width = 127
-      height = 40
+  [params.publisher.logo]
+    url = "images/logo.png"
+    width = 127
+    height = 40
 
   [params.logo]
-    url = "images/logo.jpg"
+    url = "images/logo.png"
     width = 127
     height = 40
 
   [params.image]
-    url = "images/cover.jpg"
+    url = "images/cover.png"
     width = 800
     height = 600
 
@@ -47,22 +47,25 @@ disqusShortname = "darongE"
       name = "Blog"
       url = "/posts/"
       weight = 1
-
+    [[menu.main]]
+      name = "Categories"
+      url = "/categories/"
+      weight = 2
     [[menu.main]]
       name = "About"
       url = "/about/"
-      weight = 2
+      weight = 3
 
     [[menu.main]]
       name = "Memo"
       url = "/Memo"
-      weight = 3
+      weight = 4
 
 [params]
   author = "Sunmi Kang"
-  subtitle = "developer "
+  subtitle = "developer & volunteer"
   subtitle_additional = "C, C++, Swift, HTML"
-  description = "job seeker"
+  description = "iOS developer"
   socialShare = true
 
 [params.gravatar]
