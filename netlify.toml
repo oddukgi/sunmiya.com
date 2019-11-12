@@ -7,7 +7,7 @@
   HUGO_ENV = "staging"
 
 [context.production]
-  command = "hugo --gc --minify -b ${URL}/"
+  command = "hugo --gc --minify -b $URL"
 
 [context.production.environment]
   HUGO_ENV = "production"
