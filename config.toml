@@ -5,7 +5,7 @@ theme = "KeepIt"
 copyright = "2019 Sunmi Kang"
 enableEmoji = true
 enableRobotsTXT = true
-defaultContentLanguage = "kr"
+defaultContentLanguage = "en"
 Paginate = 10
 preserveTaxonomyNames = true
 #googleAnalytics = "UA-140141781-1"
@@ -77,3 +77,9 @@ disqusShortname = "darongE"
   Reddit = true
   HackerNews = true
   Facebook = true
+
+  [languages]
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
