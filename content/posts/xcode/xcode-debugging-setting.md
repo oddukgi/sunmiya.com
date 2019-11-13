@@ -6,10 +6,10 @@ tags: ["xcode"]
 series: ["xcode"]
 categories: ["xcode"]
 slug: "xcode-debugging-setting"
+featured_image: "/images/featured/xcode_debugging_setting.jpg"
 images: "/images/featured/xcode_debugging_setting.jpg"
 ---
 
-![xcode_debugging_setting](/images/featured/xcode_debugging_setting.jpg")
 <font size=+1>
 Preferences --> Behaviors --> Running --> Starts </br></br>
 <b style="color:DodgerBlue;">**Show debugger with “Variables & Console View“**</b> 선택
