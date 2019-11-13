@@ -10,6 +10,7 @@ title: Creating a New Theme
 weight: 10
 series:
 - Hugo 101
+draft: true
 ---
 
 

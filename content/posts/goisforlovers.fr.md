@@ -9,6 +9,7 @@ linktitle = ""
 slug = "Introduction aux modeles Hugo"
 title = "Introduction aux modèles (Hu)go"
 type = ["posts","post"]
+draft = true
 [ author ]
   name = "Michael Henderson"
 +++
