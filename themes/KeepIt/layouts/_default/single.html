@@ -63,13 +63,6 @@
     </div>
 
     <div class="post-copyright">
-      {{ with .Site.Params.author }}
-        <p class="copyright-item">
-          <span>{{ i18n "Author" }} Author:</span>
-          <span>{{ . }} </span>
-          </p>
-        {{ end }}
-
         <p class="copyright-item">
               <span>{{ i18n "Words" }} Words:</span>
              <span>{{ .WordCount }}</span>
