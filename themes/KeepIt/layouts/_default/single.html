@@ -64,11 +64,6 @@
 
     <div class="post-copyright">
         <p class="copyright-item">
-              <span>{{ i18n "Words" }} :</span>
-             <span>{{ .WordCount }}</span>
-        </p>
-
-        <p class="copyright-item">
             {{ if $.Param "socialShare" }}
             <h4>{{ i18n "Share" }} This Post:</h4>
             <span class="share-icons">{{ partial "share-links" . }}</span>
