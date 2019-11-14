@@ -6,8 +6,8 @@ tags: ["xcode"]
 series: ["xcode"]
 categories: ["xcode"]
 slug: "xcode-debugging-setting"
-featured_image: "/images/featured/xcode_debugging_setting.jpg"
-images: "/images/featured/xcode_debugging_setting.jpg"
+featured_image: "/images/featured/xcode_debugging_setting.png"
+images: "/images/featured/xcode_debugging_setting.png"
 ---
 
 <font size=+1>
