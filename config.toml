@@ -11,7 +11,6 @@ preserveTaxonomyNames = true
 #googleAnalytics = "UA-140141781-1"
 pygmentsUseClasses = true
 pygmentsCodefences = true
-disqusShortname = "darongE"
 
 
 [blackfriday]
@@ -77,6 +76,12 @@ disqusShortname = "darongE"
   Reddit = true
   HackerNews = true
   Facebook = true
+  
+[params.utterances]       # https://utteranc.es/
+  owner = "sunmiya5"              # Your GitHub ID
+  repo = "hugo-comment"        # The repo to store comments
+  issueTerm = "pathname"
+  theme = "github-light"
 
   [languages]
   [languages.en]
