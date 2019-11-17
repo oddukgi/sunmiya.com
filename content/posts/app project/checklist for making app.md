@@ -16,8 +16,8 @@ slug: "checklist-for-making-app"
 | Persisting the data                                          | 3      |
 | Working through problems and bug to get the app working well | 5      |
 
-1- Don't know what to do
-2- Just know
-3- Handle middle
-4- Good
+1- Don't know what to do </br>
+2- Just know </br>
+3- Handle middle </br>
+4- Good </br>
 5- Excellent
