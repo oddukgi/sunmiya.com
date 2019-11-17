@@ -13,5 +13,5 @@ images: "/images/featured/diagram.png"
 - Required: Must be included
 - Reasonable: can implement
 - Ambitious: nice-to-have
-![Diagram](/images/2019/11/diagram.png"feature diagram")
+![feature lists](/images/2019/11/feature list.png"feature lists")
 
