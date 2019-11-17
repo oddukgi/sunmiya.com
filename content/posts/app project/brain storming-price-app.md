@@ -1,6 +1,6 @@
 ---
 title: "가격비교어플 구상안"
-date: 2019-11-16T18:05:10+09:00
+date: 2019-11-17T18:05:10+09:00
 draft: false
 tags: ["app project"]
 series: ["app project"]
