@@ -8,7 +8,6 @@ enableRobotsTXT = true
 defaultContentLanguage = "en"
 Paginate = 10
 preserveTaxonomyNames = true
-#googleAnalytics = "UA-140141781-1"
 pygmentsUseClasses = true
 pygmentsCodefences = true
 
@@ -67,8 +66,8 @@ pygmentsCodefences = true
 
 [params.social]
   Github = "sunmiya5"
+  Twitter = "oddukgi"
   Email = "sm.kang@sunmiya.com"
-
 
 [params.share]
   Twitter = true
@@ -76,10 +75,10 @@ pygmentsCodefences = true
   Reddit = true
   HackerNews = true
   Facebook = true
-  
-[params.utterances]       # https://utteranc.es/
-  owner = "sunmiya5"              # Your GitHub ID
-  repo = "hugo-comment"        # The repo to store comments
+
+[params.utterances]     
+  owner = "sunmiya5"           
+  repo = "hugo-comment"  
   issueTerm = "pathname"
   theme = "github-light"
 
