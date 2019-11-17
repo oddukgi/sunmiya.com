@@ -2,9 +2,9 @@
 title: "How to Create App Idea"
 date: 2019-11-13T17:51:13+09:00
 draft: false
-tags: ["app idea"]
-series: ["app idea"]
-categories: ["app idea"]
+tags: ["app project"]
+series: ["app project"]
+categories: ["app project"]
 featured_image: "/images/featured/create app idea.png"
 slug: "how-to-create-app-idea"
 images: "/images/featured/create app idea.png"
