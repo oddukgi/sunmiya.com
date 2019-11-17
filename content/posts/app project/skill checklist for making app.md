@@ -15,8 +15,10 @@ slug: "checklist-for-making-app"
 | Persisting the data                                          | 3      |
 | Working through problems and bug to get the app working well | 5      |
 
-1- Don't know what to do </br>
-2- Just know </br>
-3- Handle middle </br>
-4- Good </br>
-5- Excellent
+<font size=-1>
+<b style="color:gray;">1- Don't know what to do </b></br>
+<b style="color:gray;">2- Just know </b></br>
+<b style="color:gray;">3- Handle middle </b></br>
+<b style="color:gray;">4- Good </b></br>
+<b style="color:gray;">5- Excellent</b>
+</font>
