@@ -1,13 +1,11 @@
 ---
 title: "가격비교어플 구상안"
 date: 2019-11-16T10:52:00+09:00
-draft: true
+draft: false
 tags: ["app project"]
 series: ["app project"]
 categories: ["app project"]
-featured_image: ""
-slug: "mini-project"
-images: ""
+slug: "brain-storming-price-app"
 ---
 
 개인 앱 프로젝트를 뭘 할지 고민하다가 가격 검색 앱을 생각했다. 
