@@ -1,5 +1,5 @@
 ---
-title: "checklist of my skills for making apps"
+title: "Skill checklist for making apps"
 date: 2019-11-17T10:38:10+09:00
 draft: false
 tags: ["app project"]
@@ -7,7 +7,6 @@ series: ["app project"]
 categories: ["app project"]
 slug: "checklist-for-making-app"
 ---
-### checklist of my skills for making apps
 |                                                              | score  |
 |--------------------------------------------------------------|--------|
 | Developing nice graphic design                               | 5      |
