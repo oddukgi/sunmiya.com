@@ -10,7 +10,7 @@ Paginate = 10
 preserveTaxonomyNames = true
 pygmentsUseClasses = true
 pygmentsCodefences = true
-
+googleAnalytics = "UA-152728974-1"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -76,9 +76,9 @@ pygmentsCodefences = true
   HackerNews = true
   Facebook = true
 
-[params.utterances]     
-  owner = "sunmiya5"           
-  repo = "hugo-comment"  
+[params.utterances]
+  owner = "sunmiya5"
+  repo = "hugo-comment"
   issueTerm = "pathname"
   theme = "github-light"
 
