@@ -13,5 +13,5 @@ images: "/images/featured/diagram.png"
 - Required: Must be included
 - Reasonable: can implement
 - Ambitious: nice-to-have
-![feature lists](/images/2019/11/feature list.png"feature lists")
 
+<img src="/images/2019/11/feature lists.png" width="60%" height="60%" title="connect datasource in TableView" alt="datasource"></img>
