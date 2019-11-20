@@ -10,6 +10,7 @@ slug: "estimate-time-to-finish-project"
 images: "/images/featured/create app idea.png"
 ---
 
+## App Name - Gasungbi
 1. 네이버 연동 로그인 기능  (1h)
 2. 테이블뷰와 상세보기 UI 구성   (1h ,1h 30min)
 3. Open API 연결해서 키워드에 맞는 데이터 가져오기  (2h)
