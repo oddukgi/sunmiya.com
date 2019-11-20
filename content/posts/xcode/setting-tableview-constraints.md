@@ -1,5 +1,5 @@
 ---
-title: "Story보드에서 TableView Constraints 설정하기"
+title: "TableView Constraints 설정하기"
 date: 2019-11-20T17:51:13+09:00
 draft: false
 tags: [
