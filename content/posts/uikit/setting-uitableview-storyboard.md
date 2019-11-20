@@ -1,16 +1,16 @@
 ---
-title: "TableView Constraints 설정하기"
+title: "스토리보드에서 TableView 기본 설정하기"
 date: 2019-11-20T17:51:13+09:00
 draft: false
 tags: [
-  "xcode",
+  "storyboard",
   "constraints",
-  "tableview"
+  "tableview",
+  "uikit"
 ]
-series: ["xcode"]
-categories: ["xcode"]
-slug: "setting-tableview-constraints-xcode"
-images: "/images/featured/create app idea.png"
+series: ["uikit"]
+categories: ["uikit"]
+slug: "setting-tableview-storyboard"
 ---
 스토리보드에서 뷰컨트롤러를 올리고 테이블뷰를 넣고 난 뒤 constraints 설정하는 것을 잊어먹어서 적어봅니다.
 
