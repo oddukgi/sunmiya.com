@@ -3,7 +3,8 @@ title: "Helpful link site list"
 date: 2019-12-06T23:27:20+09:00
 draft: false
 tags: ["ios",
-      "swift"]
+      "swift"
+      ]
 categories: ["link"]
 slug: "helpful-link-site-list"
 ---
@@ -23,3 +24,4 @@ slug: "helpful-link-site-list"
 - [iOS: Multiple Selections in Table View](https://medium.com/ios-os-x-development/ios-multiple-selections-in-table-view-88dc2249c3a2)
 - [Swift — 4 — Core Data — Part 6 Using NSFetchResultController with UITableView](https://medium.com/@maddy.lucky4u/swift-4-core-data-part-6-using-nsfetchresultcontroller-with-uitableview-a17b045854ce)
 - [iOS 9 - "attempt to delete and reload the same index path"](https://stackoverflow.com/q/31383760/1736541)
+- [iOS disclosure indicators done right](https://www.thomasdurand.fr/swift3/ios/2016/08/12/ios-disclosure-indicator-done-right.html)
