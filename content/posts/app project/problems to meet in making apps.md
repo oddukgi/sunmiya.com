@@ -16,7 +16,8 @@ https://openapi.naver.com/v1/search/shop.json?query=%EB%84%A4%ED%8C%8C&start=1&d
 
 위의 URL 에 접근하기 위해서는 secret id와 password 가 있어야 합니다.
 
-네이버 개발자 센터에 문서를 보니 이렇게 되어있네요. </br>
+네이버 개발자 센터에 문서를 보니 이렇게 되어있네요.
+
 > 네이버 쇼핑 검색 결과를 출력해주는 REST API입니다. 비로그인 오픈 API이므로 GET으로 호출할 때 HTTP Header에 애플리케이션 등록 시 **발급받은 Client ID**와 **Client Secret 값**을 같이 전송해 주시면 활용 가능합니다. </br>
 
 자세한 내용은 아래의 [문서](https://developers.naver.com/docs/search/shopping/)를 참고하세요.
