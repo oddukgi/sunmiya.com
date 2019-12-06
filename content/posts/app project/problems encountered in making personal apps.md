@@ -1,13 +1,11 @@
 ---
-title: "When I meeet problem making App"
+title: "The problems encountered in making personal apps"
 date: 2019-12-06T17:49:00+09:00
 draft: false
 tags: ["ios"]
 series: ["ios"]
 categories: ["ios"]
-featured_image: ""
 slug: "problems-encountered-in-creating-personal-apps"
-images: ""
 ---
 개인 앱 프로젝트로 네이버 쇼핑의 Open API를 사용하여 제품 검색 앱을 만들었습니다.
 url속에 검색어를 넣어서 query를 구성합니다. 결과값은 10개로 제한하여 구성했습니다.
