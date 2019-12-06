@@ -46,6 +46,6 @@ Optional(4)
 ```
 
 아직 문제를 해결을 못했네요. 해결되는 데로 방법을 정리하여 포스팅을 올리겠습니다.</br>
-현재 이 프로젝트는[github](https://github.com/sunmiya5/Gasungbi)에서 보시면 됩니다. 
+현재 이 프로젝트는 [github](https://github.com/sunmiya5/Gasungbi) 에서 보시면 됩니다. 
 
 
