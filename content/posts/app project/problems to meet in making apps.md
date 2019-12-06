@@ -2,9 +2,9 @@
 title: "The problems encountered in creating apps"
 date: 2019-12-06T17:49:00+09:00
 draft: false
-tags: ["ios"]
-series: ["ios"]
-categories: ["ios"]
+tags: ["app project"]
+series: ["app project"]
+categories: ["app project"]
 slug: "problems-encountered-in-creating apps"
 ---
 개인 앱 프로젝트로 네이버 쇼핑의 Open API를 사용하여 제품 검색 앱을 만들었습니다.
