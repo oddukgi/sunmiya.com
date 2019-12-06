@@ -8,8 +8,11 @@ categories: ["ios"]
 slug: "problems-encountered-in-creating apps"
 ---
 개인 앱 프로젝트로 네이버 쇼핑의 Open API를 사용하여 제품 검색 앱을 만들었습니다.
-url속에 검색어를 넣어서 query를 구성합니다. 결과값은 10개로 제한하여 구성했습니다.
+url속에 검색어를 넣어서 query를 구성합니다. 결과값은 10개로 제한하여 구성했습니다. </br>
+
+```
 https://openapi.naver.com/v1/search/shop.json?query=%EB%84%A4%ED%8C%8C&start=1&display=10&sort=sim
+```
 
 위의 URL 에 접근하기 위해서는 secret id와 password 가 있어야 합니다.
 
@@ -27,6 +30,7 @@ https://openapi.naver.com/v1/search/shop.json?query=%EB%84%A4%ED%8C%8C&start=1&d
 
 ## Log 
 
+```
 1
 3
 4
@@ -39,8 +43,8 @@ Optional(4)
 강원전자 넷메이트 DVI- D 듀얼 골드 메탈 케이블
 Optional(4)
 Optional(4) 
+```
 
----
 아직 문제를 해결을 못했네요. 해결되는 데로 방법을 정리하여 포스팅을 올리겠습니다.
 
 
