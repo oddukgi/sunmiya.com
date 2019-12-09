@@ -1,6 +1,6 @@
 ---
 title: "Core Data(CRUD) Swift 4.2 기초 - Medium 번역"
-date: 2019-12-8T20:32:13+09:00
+date: 2019-12-08T20:32:13+09:00
 draft: false
 tags: [
        "ios",

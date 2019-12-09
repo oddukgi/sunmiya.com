@@ -1,6 +1,6 @@
 ---
 title: "Webkit에러 솔루션 링크모음"
-date: 2019-12-7T18:00:44+09:00
+date: 2019-12-07T18:00:44+09:00
 draft: false
 tags: [
        "ios",
