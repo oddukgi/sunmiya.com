@@ -2,21 +2,18 @@
 title: "Core Data(CRUD) Swift 4.2 기초 - Medium 번역"
 date: 2019-12-8T20:32:13+09:00
 draft: false
-tags: ["ios",
+tags: [
+       "ios",
        "swift",
         "core data"
       ]
 series: ["ios"]
-categories: [
-             "ios",
-             "swift"
-            ]
+categories: ["ios"]
 slug: "core-data-swift-basic"
 ---
-코어 데이터는 macOS 와 iOS  운영체제를 제공하는 애플사의 객체 그래프 및 지속성 프레임워크 입니다. </br> iPhone SDK 3.0을 탑재한 Mac OS X 10.4 Tiger와 iOS에 도입되었다. 관계 엔티티에 의해 구성된 데이터를 XML, 이진 또는 SQLite 저장소로 직렬화할 수 있다
+코어 데이터는 macOS 와 iOS  운영체제를 제공하는 애플사의 객체 그래프 및 지속성 프레임워크 입니다. </br> iPhone SDK 3.0을 탑재한 Mac OS X 10.4 Tiger와 iOS에 도입되었다. 관계 엔티티에 의해 구성된 데이터를 XML, 이진 또는 SQLite 저장소로 직렬화 할 수 있습니다.
 
 ## How Does It Differ From SQLite?
-
 Core Data를 처음 접하는 개발자는 종종 SQLite와 Core Data의 차이점으로 인해 혼동됩니다. SQLite 또는 Core Data 가 필요한지 궁금하다면 잘못된 질문입니다. </br> Core Data는 데이터 베이스가 아닙니다.
 
 ### SQLite
@@ -46,7 +43,7 @@ Core Data를 처음 접하는 개발자는 종종 SQLite와 Core Data의 차이�
 ## Core Data 의 적합한 용도 
 - 복잡한 객체 그래프를 관리해야 하는 애플리케이션의 경우 적합합니다.
 - 소수의 관련없는 개체 만 저장해야 하는 경우 , 간단한 솔루션 또는 사용자 기본 시스템을 사용하는 것이 좋습니다.  
-예시) Bookmark 엔티티와 Keyword 엔티티를 따로 생성해서 데이터를 저장하도록 설계할 때, 코어 데이터가 필요하다.
+예시) Bookmark 엔티티와 Keyword 엔티티를 따로 생성해서 데이터를 저장하도록 설계할 때, 코어 데이터를 쓰면 좋습니다.
 
 ##  참고 웹사이트 
 [Core Data (CRUD) with Swift 4.2 for Beginners](https://medium.com/@ankurvekariya/core-data-crud-with-swift-4-2-for-beginners-40efe4e7d1cc)
