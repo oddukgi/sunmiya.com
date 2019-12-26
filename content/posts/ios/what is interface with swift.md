@@ -51,5 +51,5 @@ class Triangle: Shape {
 
 - class 와 struct 는 `protocol`을 사용하여 구현할 수 있습니다.
 
-이 컨텐츠는 스택오버플로우 내용을 번역하였습니다. 
-[stackoverflow_how_to_create_an_interface_Swift](https://stackoverflow.com/questions/45974041/how-to-create-an-interface-in-swift)
+이 컨텐츠는 스택오버플로우 내용을 번역하였습니다. </br>
+Link : [stackoverflow_how_to_create_an_interface_Swift](https://stackoverflow.com/questions/45974041/how-to-create-an-interface-in-swift)
