@@ -1,6 +1,6 @@
 ---
 title: "나의 Linkedin 프로필 피드백"
-date: 2019-11-18T18:00:44+09:00
+date: 2019-12-18T18:00:44+09:00
 draft: false
 tags: ["linkedin",
         "job"]
@@ -9,7 +9,7 @@ featured_image: ""
 slug: "my-linkedin-feedback"
 images: "/images/featured/create app idea.png"
 ---
-유다시티 마지막 프로젝트도 제출하고 난 뒤, 남은 것은 링크드인 프로필 제출이었다.
+유다시티 마지막 프로젝트도 제출하고 난 뒤, 남은 것은 링크드인 프로필 제출이었다.</br>
 iOS개발자로 구직활동을 위한 첫 이력서는 링크드인에서 만들었다.
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
