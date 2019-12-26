@@ -25,6 +25,6 @@ LinkedIn SSI (Social Selling Index)는 전문 브랜드를 구축하고, 적절�
 
 
 ## 참고할 링크
-• [전문가 링크드 인 팁](https://www.forbes.com/sites/dailymuse/2018/01/22/7-expert-linkedin-tips-a-lot-of-people-dont-really-know-about/#396303312f2a)
-• [LinkedIn 프로필을 돋보이게하는 6 가지 방법](https://www.forbes.com/sites/averyblank/2017/12/05/6-ways-to-make-your-linkedin-profile-standout-and-unforgettable/#64e358a73743)
+• [전문가 링크드 인 팁](https://www.forbes.com/sites/dailymuse/2018/01/22/7-expert-linkedin-tips-a-lot-of-people-dont-really-know-about/#396303312f2a)</br>
+• [LinkedIn 프로필을 돋보이게하는 6 가지 방법](https://www.forbes.com/sites/averyblank/2017/12/05/6-ways-to-make-your-linkedin-profile-standout-and-unforgettable/#64e358a73743)</br>
 • [링크드 인 개선을 위한 12 가지 팁](https://www.linkedin.com/pulse/20140709061710-108230503-12-tips-to-improve-your-work-experience-section-on-linkedin/)
