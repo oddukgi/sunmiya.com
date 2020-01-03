@@ -21,6 +21,7 @@ Xcode 메뉴에서 [File] - [Playground Settings] 들어가면 derived data 경�
 
 ![Derived Data folder](/images/2019/12/derived data folder.png "Derived Data folder")
 
+- `Xcode` 를 종료하고, 다시 실행한다.
 
 <br><br>
 
