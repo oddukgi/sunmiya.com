@@ -23,8 +23,8 @@ Heading은 `//: # 제목` ,` #` 를 추가해서 Heading 1,2,3,4를 만들 수 �
 
 - 작성한 뒤, Xcode 메뉴에서 `[Editor] - [Show Raw Markup]` 마크업 포맷이 변경된다.
 
-![변경된 Markup 포맷1](/images/2019/1/xcode%20markup1.png "변경된 Markup 포맷 A")
-![변경된 Markup 포맷2](/images/2019/1/xcode%20markup2.png "변경된 Markup 포맷 B")
+![변경된 Markup 포맷1](/images/2020/1/xcode%20markup1.png "변경된 Markup 포맷 A")
+![변경된 Markup 포맷2](/images/2020/1/xcode%20markup2.png "변경된 Markup 포맷 B")
 <br><br>
 
 ## 참고 링크

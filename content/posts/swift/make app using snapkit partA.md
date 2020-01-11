@@ -50,7 +50,7 @@ class ViewController: UIViewController {
 }
 
 ```
-<img src="/images/2019/1/vc.png" width="60%" height="60%" title="connect datasource in TableView" alt="datasource"></img>
+<img src="/images/2020/1/vc.png" width="60%" height="60%" title="connect datasource in TableView" alt="datasource"></img>
 
 ##   참고할 링크
 - [스토리 보드 및 인터페이스 빌더 사용을 중단 한 이유](https://medium.com/@kenzai/why-i-stopped-using-storyboards-and-interface-builder-a9142e060f71)" 
