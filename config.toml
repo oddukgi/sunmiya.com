@@ -56,8 +56,8 @@ googleAnalytics = "UA-152728974-1"
 
 [params]
   author = "Sunmi Kang"
-  subtitle = "developer & volunteer"
-  subtitle_additional = "C, C++, Swift, HTML"
+  subtitle = "Junior iOS developer"
+  subtitle_additional = "C, C++, Swift, Objective-C"
   description = "iOS developer"
   socialShare = true
 
