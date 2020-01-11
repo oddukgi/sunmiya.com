@@ -2,13 +2,9 @@
 title: "Core Data(CRUD) Swift 4.2 기초 - Medium 번역"
 date: 2019-12-08T20:32:13+09:00
 draft: false
-tags: [
-       "ios",
-       "swift",
-        "core data"
-      ]
-series: ["ios"]
-categories: ["ios"]
+tags: [ "swift",
+        "core data"]
+categories: ["swift"]
 slug: "core-data-swift-basic"
 ---
 코어 데이터는 macOS 와 iOS  운영체제를 제공하는 애플사의 객체 그래프 및 지속성 프레임워크 입니다. </br> iPhone SDK 3.0을 탑재한 Mac OS X 10.4 Tiger와 iOS에 도입되었다. 관계 엔티티에 의해 구성된 데이터를 XML, 이진 또는 SQLite 저장소로 직렬화 할 수 있습니다.

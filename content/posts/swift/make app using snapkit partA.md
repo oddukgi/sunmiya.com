@@ -2,11 +2,9 @@
 title: "Problem of using storyboard & SnapKit Intro"
 date: 2020-01-02T19:24:20+09:00
 draft: false
-tags: [ "ios",
-       "snapkit", 
+tags: [ "snapkit", 
        "swift"]
-series: ["ios"]
-categories: ["ios"]
+categories: ["swift"]
 slug: "problem-of-storyboard-n-start-use-snapkit"
 ---
 iOS 개발을 처음 배우면서, 스토리보드에 올려서 앱을 개발해왔다.

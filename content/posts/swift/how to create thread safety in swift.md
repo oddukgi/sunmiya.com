@@ -2,11 +2,10 @@
 title: "[번역] Swift에서 쓰레드 안정성을 있는 배열을 생성하는 법"
 date: 2019-12-22T19:19:10+09:00
 draft: true
-tags: ["ios",
+tags: ["swift",
       "thread",
        "array" ]
-series: ["ios"]
-categories: ["ios"]
+categories: ["swift"]
 slug: "tr-how-to-create-thready-safe-arrays-swift"
 ---
 

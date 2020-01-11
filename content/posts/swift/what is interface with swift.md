@@ -2,10 +2,9 @@
 title: "Swift에서 Interface란?"
 date: 2019-12-26T13:01:00+09:00
 draft: false
-tags: ["ios",
-      "interface",
+tags: ["interface",
       "swift"]
-categories: ["ios"]
+categories: ["swift"]
 slug: "what-is-interface-in-swift"
 ---
 
