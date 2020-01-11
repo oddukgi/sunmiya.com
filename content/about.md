@@ -27,4 +27,4 @@ I like to come up with ideas and design programs. I don’t mind communicating a
 
 ## Thanks for Visiting!
 - [portfolio](https://meeta.io/@sunmiya) 
-- [Linked in](www.linkedin.com/in/sunmi) 
+- [Linked in](https://www.linkedin.com/in/sunmiya) 
