@@ -27,7 +27,7 @@ googleAnalytics = "UA-152728974-1"
       height = 40
 
   [params.logo]
-    url = "logo.png"
+    url = "logom.png"
     width = 127
     height = 40
 
