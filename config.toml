@@ -22,12 +22,12 @@ googleAnalytics = "UA-152728974-1"
     name = "sunmi"
 
     [params.publisher.logo]
-      url = "logom.png"
+      url = "logo.png"
       width = 127
       height = 40
 
   [params.logo]
-    url = "logom.png"
+    url = "/logo.png"
     width = 127
     height = 40
 
