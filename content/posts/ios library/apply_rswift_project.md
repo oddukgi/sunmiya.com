@@ -37,9 +37,8 @@ Xcode에서 프로젝트를 선택하고,  Swift Packages 항목에 아래의 gi
 `https://github.com/mac-cain13/R.swift.Library`</br>
 git을 추가할 때, 아래의 창이 나올 때, 아래그림 처럼 하면 됩니다. 
 
-<img src="/images/2020/2/rswift_settings/add_r.swift.lib.png" width="60%" height="60%"</img></br>
-
-4. Build Phase에 [+] 버튼을 눌러  "New Run Script" 이름을  R.swift 를 바뀐뒤,</br> 아래와 같이 넣어줍니다.
+<img src="/images/2020/2/rswift_settings/add_r.swift.lib.png" width="60%" height="60%"</img> <br>
+4. Build Phase에 [+] 버튼을 눌러  "New Run Script" 이름을  R.swift 를 바뀐뒤, 아래와 같이 넣어줍니다.
 
 - Shell
 ```sh
