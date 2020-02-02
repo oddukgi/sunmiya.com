@@ -44,7 +44,7 @@ git을 추가할 때, 아래의 창이 나올 때, 아래그림 처럼 하면 �
 - Shell
 ```sh
 if mint list | grep -q 'R.swift'; then
-  mint run R.swift rswift generate "$SRCROOT/R.generated.swift"
+  mint run R.swift rswift generate "$SRCROOT/YOUR_PROJECT_NAME/Resources/R.generated.swift"
 else
   echo "error: R.swift not installed; run 'mint bootstrap' to install"
   return -1
@@ -53,9 +53,9 @@ fi
 - Input Files
  `$TEMP_DIR/rswift-lastrun` 
 - Output Files
- `$SRCROOT/R.generated.swift` 
+ `$SRCROOT/YOUR_PROJECT_NAME/Resources/R.generated.swift` 
 
-![R.swift 스크립트 내용](/images/2020/2/rswift_settings/build_phase.png "Build Phase 순서")
+![Build Phase 순서](/images/2020/2/rswift_settings/build_phase.png "Build Phase 순서")
 
 스크립트를 작성을 끝내면 ,Build Phase의 순서를 위 그림처럼 맞춥니다. </br>
 순서를 안맞추면 아래 로그처럼 에러가 생깁니다. Warning로그를 보고, 지나치다가 찾아보니 </br>Build Phase 의 순서를 조정하는 것이 해결책 이었습니다.
@@ -79,8 +79,6 @@ Cycle details:
 swift파일에 R을 입력한 뒤 code snippet이 뜨는지 확인합니다.
 
 <img src="/images/2020/2/rswift_settings/r.swift_code snippet.png" width="45%" height="45%"</img></br>
-
-
 
 ## R.swift를 사용하여 ViewController 를 선언하기 
 테스트 할 겸 UITabBarController가 들어 있는 ViewController 를 선언했습니다.
