@@ -1,5 +1,5 @@
 ---
-title: "R.swift 설치하고,프로젝트에 적용하기"
+title: "Mint로 R.swift 설치하고,프로젝트에 적용하기"
 date: 2020-02-01T10:54:00+09:00
 draft: false
 tags: [
