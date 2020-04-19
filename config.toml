@@ -55,10 +55,9 @@ googleAnalytics = "UA-152728974-1"
       weight = 3
 
 [params]
-  home_mode = "post"
   author = "Sunmi Kang"
   subtitle = "Junior iOS developer"
-  subtitle_additional = "C, C++, Swift, Objective-C"
+  subtitle_additional = "C, C++, Swift"
   description = "iOS developer"
   socialShare = true
  
