@@ -1,8 +1,8 @@
+{{ $cdn_url := .Scratch.Get "cdn_url" }}
 
 <div class="post-warp">
 	<div class="intro">
-			{{ $cdn_url := .Scratch.Get "cdn_url" }}
-			{{ with .Site.Params.avatar}}
+		{{ with .Site.Params.avatar}}
 		{{ $avatar := .}}
     <div class="avatar">
         <a href="/posts/"> <img src="{{ (printf "%s%s" $cdn_url $avatar)}}"> </a>
