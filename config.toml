@@ -56,8 +56,8 @@ googleAnalytics = "UA-152728974-1"
 
 [params]
   author = "Sunmi"
+  subtitle = "iOS Developer, Adventurer"
   socialShare = true
-
  
 [params.gravatar]
   email = "cutysunmi@gmail.com"
@@ -69,10 +69,6 @@ googleAnalytics = "UA-152728974-1"
 
 [params.share]
   Twitter = true
-  Linkedin = true
-  Reddit = true
-  HackerNews = true
-  Facebook = true
 
 [params.utterances]
   owner = "oddukgi"
