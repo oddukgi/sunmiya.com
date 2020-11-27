@@ -55,11 +55,12 @@ googleAnalytics = "UA-152728974-1"
       weight = 3
 
 [params]
-  author = "Sunmi Kang"
-  subtitle = "Junior iOS developer"
-  subtitle_additional = "C, C++, Swift"
-  description = "iOS developer"
-  socialShare = true
+  # author = "Sunmi Kang"
+  # subtitle = "Junior iOS developer"
+  # subtitle_additional = "C, C++, Swift"
+  # description = "iOS developer"
+  # socialShare = true
+  home_mode = "post"
  
 [params.gravatar]
   email = "cutysunmi@gmail.com"
